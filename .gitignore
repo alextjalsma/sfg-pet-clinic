@@ -27,8 +27,3 @@ target/
 /.nb-gradle/
 build/
 
-### VS Code ###
-.vscode/
-/mvnw
-/mvnw.cmd
-/.mvn/
