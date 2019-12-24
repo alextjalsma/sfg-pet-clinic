@@ -2,13 +2,13 @@ package alextjalsma.sfgpetclinic.model;
 
 public class Speciality extends BaseEntity {
 
-    private String descreption;
+    private String description;
 
-    public String getDescreption() {
-        return descreption;
+    public String getDescription() {
+        return description;
     }
 
-    public void setDescreption(String descreption) {
-        this.descreption = descreption;
+    public void setDescription(String description) {
+        this.description = description;
     }
 }
